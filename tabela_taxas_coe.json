@@ -1,0 +1,81 @@
+{
+    "documento": {
+        "tipificacao": ["Residência Unifamiliar", "até 1500m²", "de 1500 a 20000m²", "acima de 20000m²"]
+    },
+    "ficha_tecnica": {
+        "pedido": [174.68, 174.68, 174.68, 174.68]
+    },
+    "diretrizes_de_projeto": {
+        "pedido": [1.17, 2.33, 3.50, 4.65]
+    },
+    "alvara_de_aprovacao_de_edificacao_nova": {
+        "pedido_inicial": [2.33, 5.24, 6.99, 9.32],
+        "revalidacao": [2.33, 2.33, 2.33, 2.33]
+    },
+    "alvara_de_aprovacao_de_reforma": {
+        "pedido_inicial": [2.33, 5.24, 6.99, 9.32],
+        "revalidacao": [2.33, 2.33, 2.33, 2.33]
+    },
+    "alvara_de_aprovacao_de_requalificacao": {
+        "pedido_inicial": [null, 4.65, 4.65, 4.65],
+        "revalidacao": [null, 2.33, 2.33, 2.33]
+    },
+    "alvara_de_execucao": {
+        "edificacao_nova": [407.58, 838.45, 838.45, 838.45],
+        "reforma": [407.58, 838.45, 838.45, 838.45],
+        "requalificacao": [407.58, 838.45, 838.45, 838.45],
+        "reconstrucao": [407.58, 838.45, 838.45, 838.45],
+        "demolicao": [407.58, 838.45, 838.45, 838.45],
+        "muro_de_arrimo": [407.58, 838.45, 838.45, 838.45],
+        "movimento_de_terra": [407.58, 838.45, 838.45, 838.45]
+    },
+    "projeto_modificativo": {
+        "edificacao_nova": [1.17, 2.92, 3.50, 4.65],
+        "reforma": [0.57, 1.17, 2.33, 4.65],
+        "requalificacao": [null, 1.17, 1.17, 1.17]
+    },
+    "certificado_de_regularizacao": {
+        "solicitacao": [2.33, 4.65, 6.99, 9.32]
+    },
+    "certificado_de_acessibilidade": {
+        "solicitacao": [null, 2.33, 3.50, 4.65]
+    },
+    "certificado_de_seguranca": {
+        "solicitacao": [null, 2.33, 2.33, 4.65]
+    },
+    "alvara_de_autorizacao": {
+        "implantacao_de_edificacao_transitoria": [null, 2.33, 2.33, 2.33],
+        "implantacao_de_equipamento_transitorio": [null, 815.14, 1630.30, 1630.30],
+        "utilizacao_temporaria_de_edificacao_licenciada_para_uso_diverso": [null, 2.33, 2.33, 2.33],
+        "avanco_do_tapume_sobre_parte_do_passeio_publico": [null, 815.14, 1630.30, 1630.30],
+        "avanco_de_grua_sobre_o_espaco_publico": [null, 815.14, 1630.30, 1630.30],
+        "instalacao_de_canteiro_de_obras_e_estande_de_vendas_em_imovel_distinto": [null, 2.33, 2.33, 2.33]
+    },
+    "cadastro_de_equipamento": {
+        "elevador": [174.68, 174.68, 174.68, 174.68],
+        "equipamento_mecanico_de_transporte_permanente": [174.68, 174.68, 174.68, 174.68],
+        "tanque_de_armazenagem_bomba_filtro_de_combustivel_e_equipamentos_afins": [174.68, 174.68, 174.68, 174.68],
+        "sistema_especial_de_seguranca": [null, 2.33, 2.33, 4.65]
+    },
+    "manutencao_de_equipamento": {
+        "elevador": [174.68, 174.68, 174.68, 174.68],
+        "equipamento_mecanico_de_transporte_permanente": [174.68, 174.68, 174.68, 174.68],
+        "tanque_de_armazenagem_bomba_filtro_de_combustivel_e_equipamentos_afins": [174.68, 174.68, 174.68, 174.68],
+        "sistema_especial_de_seguranca": [null, 2.33, 2.33, 4.65]
+    },
+    "recurso": {
+        "solicitacao": [407.58, 815.14, 1630.30, 1630.30]
+    },
+    "instalacao_de_tapume": {
+        "solicitacao": [9.32, 9.32, 9.32, 9.32]
+    },
+    "transporte_de_terra_ou_entulho": {
+        "solicitacao": [174.68, 174.68, 174.68, 174.68]
+    },
+    "certidao_de_alinhamento_e_nivelamento": {
+        "solicitacao": [174.68, 174.68, 174.68, 174.68]
+    },
+    "mudanca_de_uso": {
+        "solicitacao": [2.33, 5.24, 6.99, 9.32]
+    }
+}
